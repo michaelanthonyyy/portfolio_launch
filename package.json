@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_launch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelanthonyyy/portfolio_launch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelanthonyyy/portfolio_launch/issues"
+  },
+  "homepage": "https://github.com/michaelanthonyyy/portfolio_launch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
