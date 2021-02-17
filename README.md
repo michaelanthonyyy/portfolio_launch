@@ -14,7 +14,7 @@ Updated portfolio 2021 with most recent projects
 
 -----------------------
 ## Deployed link
-[Link](https://circle-restaurant-mgmt.herokuapp.com/)
+[Link](https://michaelanthonyyy.github.io/portfolio_launch/)
 
 -----------------------
 ## Code snippets
