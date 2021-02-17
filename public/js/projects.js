@@ -1,20 +1,21 @@
 $(document).ready(function () {
 
+
     $("#launchModalOne").click(function () {
 
-        $(".modal").addClass("is-active");
+        $(".One").addClass("is-active");
 
     });
 
     $("#launchModalTwo").click(function () {
 
-        $(".modal").addClass("is-active");
+        $(".Two").addClass("is-active");
 
     });
 
     $("#launchModalThree").click(function () {
 
-        $(".modal").addClass("is-active");
+        $(".Three").addClass("is-active");
 
     });
 
